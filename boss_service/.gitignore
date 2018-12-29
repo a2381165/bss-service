@@ -1,0 +1,12 @@
+#忽略执行文件
+*.pyc
+#忽略ide文件夹
+/.idea/
+log/*
+static/*
+/common/demos/
+/controllers/Order
+/test
+/item
+/common/temp
+/templates/*
